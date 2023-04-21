@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.content_sharing">
-   <application
+    <application
         android:label="content_sharing"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">

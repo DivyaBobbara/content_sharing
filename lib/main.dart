@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import './screens/subject_screen.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: SubjectsScreen(),
+    home:  SubjectsScreen(),
     );
   }
 }
